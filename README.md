@@ -20,6 +20,12 @@
 </p>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="gmgower's Github Stats" src="https://github-readme-stats.gmgower.vercel.app/api/?username=gmgower&show_icons=true&hide_border=true"/>
+ </details>
+
 <!--
 **gmgower/gmgower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
