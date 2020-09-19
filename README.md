@@ -1,3 +1,11 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h3>Where to find me</h3>
+<p>
+  <a href="https://www.twitter.com/gmgower"><img alt="" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25/>
+  </a>
+  <a href="https://www.linkedin.com/in/gmgower"><img alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25/>
+  </a>
+</p>
 
 <h1>Languages and Tools:</h1>
 <p>
@@ -17,8 +25,7 @@
 <img alt="" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" height=25/>
 <img alt="" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" height=25/>
 <img alt="" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height=25/>
-<img alt="" src="" height=25/>
-  <img alt="" src="" height=25/>
+
 </p>
 <img alt="" src="" height=25/>
 <p>
@@ -28,7 +35,7 @@
   <img alt="express" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height=25/>
 </p>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
 
 
 
