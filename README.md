@@ -8,24 +8,24 @@
 <img alt="redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" height=25/>
 <img alt="python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" height=25/>
 <img alt="markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" height=25/>
-<img alt="express" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height=25/>
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height=25/>
 <img alt="materaialui" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" height=25/>
-<img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=25/>
-<img alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height=25/>
 <img alt="" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white" height=25/>
 <img alt="" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height=25/>
 <img alt="" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height=25/>
 <img alt="" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" height=25/>
 <img alt="" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" height=25/>
+<img alt="" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" height=25/>
+<img alt="" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height=25/>
 <img alt="" src="" height=25/>
-  <img alt="" src="" height=25/>
-  <img alt="" src="" height=25/>
   <img alt="" src="" height=25/>
 </p>
 <img alt="" src="" height=25/>
 <p>
   <img alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height=25 />
+  <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=25/>
+  <img alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height=25/>
+  <img alt="express" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height=25/>
 </p>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
