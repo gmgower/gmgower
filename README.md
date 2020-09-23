@@ -4,7 +4,7 @@ Hi, I'm Mada Gower, a Full Stack Developer from Texas.Prior U.S militry turn cod
 
 **About Me.**
 
-- I'm currently learning Full Stack web development at Lambda Shcool
+- [Code Mode 👨🏽‍💻](#code-mode-) I'm currently learning Full Stack web development at Lambda Shcool (https://lambdaschool.com/courses/full-stack-web-development);
 - Ask me about anthing, I am happy to help.
 
 
