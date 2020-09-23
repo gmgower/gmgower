@@ -7,16 +7,6 @@ Hi, I'm Mada Gower, a Full Stack Developer from Texas.Prior U.S militry turn cod
 - [Code Mode 👨🏽‍💻](#code-mode-) I'm currently learning Full Stack web development at Lambda Shcool (https://lambdaschool.com/courses/full-stack-web-development);
 - Ask me about anthing, I am happy to help.
 
-
-
-<h3>Where to find me</h3>
-<p>
-  <a href="https://www.twitter.com/gmgower"><img alt="" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25/>
-  </a>
-  <a href="https://www.linkedin.com/in/gmgower"><img alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25/>
-  </a>
-</p>
-
 <h1>Languages and Tools:</h1>
 <p>
 <img alt="html5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=25 />
@@ -35,9 +25,7 @@ Hi, I'm Mada Gower, a Full Stack Developer from Texas.Prior U.S militry turn cod
 <img alt="" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" height=25/>
 <img alt="" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" height=25/>
 <img alt="" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height=25/>
-
 </p>
-<img alt="" src="" height=25/>
 <p>
   <img alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height=25 />
   <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=25/>
@@ -45,9 +33,13 @@ Hi, I'm Mada Gower, a Full Stack Developer from Texas.Prior U.S militry turn cod
   <img alt="express" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height=25/>
 </p>
 
-
-
-
+<h3>Where to find me</h3>
+<p>
+  <a href="https://www.twitter.com/gmgower"><img alt="" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25/>
+  </a>
+  <a href="https://www.linkedin.com/in/gmgower"><img alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25/>
+  </a>
+</p>
 
 
 <details>
@@ -69,3 +61,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img alt="" src="" height=25/>
