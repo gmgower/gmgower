@@ -1,4 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
+Hi, I'm Mada Gower, a Full Stack Developer from Texas.Prior U.S militry turn coder. 
+
+**About Me.**
+
+- I'm currently learning Full Stack web development at Lambda Shcool
+- Ask me about anthing, I am happy to help.
+
+
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://www.twitter.com/gmgower"><img alt="" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25/>
