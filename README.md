@@ -1,8 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-Hi, I'm Mada Gower, a Full Stack Developer from Texas.Prior U.S militry turn coder. 
-
-**About Me.**
+Hi, I'm Mada Gower, a Full Stack Developer from Houston, Texas.
 
 - 👨🏽‍💻 I'm currently learning Full Stack web development at Lambda Shcool (https://lambdaschool.com/courses/full-stack-web-development)
 - 💬 Ask me about anthing, I am happy to help.
@@ -10,6 +8,7 @@ Hi, I'm Mada Gower, a Full Stack Developer from Texas.Prior U.S militry turn cod
 - ⚡2020 Goals: Contribute to an Open Source projedts
 
 <h1>Languages and Tools:</h1>
+<h3>Languages/Frameworks/Things I use </h3>
 <p>
 <img alt="html5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=25 />
 <img alt="css5" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=25/>
