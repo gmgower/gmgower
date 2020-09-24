@@ -25,12 +25,10 @@ Hi, I'm Mada Gower, a Full Stack Developer from Houston, Texas.
 <img alt="" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" height=25/>
 <img alt="" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" height=25/>
 <img alt="" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height=25/>
-</p>
-<p>
-  <img alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height=25 />
-  <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=25/>
-  <img alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height=25/>
-  <img alt="express" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height=25/>
+<img alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height=25 />
+<img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=25/>
+<img alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height=25/>
+<img alt="express" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height=25/>                                                               
 </p>
 
 <h3>Where to find me</h3>
