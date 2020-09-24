@@ -7,8 +7,7 @@ Hi, I'm Mada Gower, a Full Stack Developer from Houston, Texas.
 - 🤣 I’m currently learning everything 
 - ⚡2020 Goals: Contribute to an Open Source projedts
 
-<h1>Languages and Tools:</h1>
-<h3>Languages/Frameworks/Things I use </h3>
+<h1>Languages/Frameworks/Things I use</h1>
 <p>
 <img alt="html5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=25 />
 <img alt="css5" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=25/>
