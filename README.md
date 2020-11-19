@@ -5,7 +5,7 @@ Hi, I'm Mada Gower, a Full Stack Developer from Houston, Texas.
 - 👨🏽‍💻 I'm currently learning Full Stack web development at Lambda Shcool (https://lambdaschool.com/courses/full-stack-web-development)
 - 💬 Ask me about anthing, I am happy to help.
 - 🤣 I’m currently learning everything 
-- ⚡2020 Goals: Contribute to an Open Source projedts
+- ⚡2021 Goals: Contribute to an Open Source projects.
 
 <h1>Languages/Frameworks/Things I use</h1>
 <p>
