@@ -39,7 +39,7 @@ Hi, I'm Mada Gower, a Full Stack Developer from Houston, Texas.
   <a href="https://www.linkedin.com/in/gmgower" target="_blank" rel="noopener noreferrer">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25/>
   </a>
-  <a href="hhttps://www.gmgower.dev" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.gmgower.dev" target="_blank" rel="noopener noreferrer">
     <img alt="website-portfolio" src="https://img.shields.io/badge/Website-4285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height=25/>
   </a>
 </p>
